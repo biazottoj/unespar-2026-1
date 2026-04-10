@@ -10,6 +10,10 @@
  	+ Link para entrega: [https://forms.gle/D9E2HYg9YW3JkGK59](https://forms.gle/D9E2HYg9YW3JkGK59)
 - Atividade 04 -  Modelagem e representação de objetos (até 03/04/2026 as 23:59)
 	+ Link para a entrega: [https://forms.gle/3dgeD7g7YceuzGABA](https://forms.gle/3dgeD7g7YceuzGABA)
+- Atividade 05 -  Sistemas de Coordenadas, Pontos e Vetores (10/04/2026 as 23:59)
+	+ Link para a entrega: [https://forms.gle/A3ZgRyovNUGm5qHn8](https://forms.gle/A3ZgRyovNUGm5qHn8)
+- Atividade 06 -  Introducão ao OpenGL com Python (23/04/2026 as 23:59)
+	+ Link para a entrega: [https://forms.gle/iichsRLfNhpskkA66](https://forms.gle/iichsRLfNhpskkA66)
 
 ---
 
