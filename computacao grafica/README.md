@@ -5,11 +5,12 @@
 ### Atividades
 - Atividade 01 - Introducão a Comp. Gráfica (até 06/03/2026)
 	+ Feita em Sala
-	+ Vou adicionar no Github para que quem nao fez, faca.
+	+ Link para entrega: [https://forms.gle/iT4RdTbVor8fUYaQ6](https://forms.gle/iT4RdTbVor8fUYaQ6) --> MESMO LINK DE ENTREGA PARA DA ATIVIDADE 02
 	+ Para quem não estava presente, a atividade vai valer metade da nota 
 - Atividade 02 - Tecnicas para percepcão de profundidade (até 13/03/2016)
+	+ Pasta com as imagens: [https://drive.google.com/drive/folders/1zRmWQHV0RFtOHv70yKnrqiCkS-W50b6G?usp=drive_link](https://drive.google.com/drive/folders/1zRmWQHV0RFtOHv70yKnrqiCkS-W50b6G?usp=drive_link)
 	+ Foi feita uma breve apresentacão em sala
-	+ Vou adicionar no Github para que quem nao fez, faca.
+	+ Link para entrega: [https://forms.gle/iT4RdTbVor8fUYaQ6](https://forms.gle/iT4RdTbVor8fUYaQ6) --> MESMO LINK DE ENTREGA PARA DA ATIVIDADE 01
 	+ Para quem não estava presente, a atividade vai valer metade da nota
 - Atividade 03 - Aliasing (até 20/03/2026 as 11:30)
  	+ Link para entrega: [https://forms.gle/D9E2HYg9YW3JkGK59](https://forms.gle/D9E2HYg9YW3JkGK59)
