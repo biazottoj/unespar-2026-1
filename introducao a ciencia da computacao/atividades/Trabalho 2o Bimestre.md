@@ -20,6 +20,12 @@ A atividade busca desenvolver:
 
 ### Valor da atividade: 4,0
 
+### Grupos
+- Grupo 01 - 
+    * BRUNO REZENDE
+    * ISIS LÔBO UCHÔA
+  - 
+
 ---
 
 ## 2. Temas dos seminários
@@ -73,18 +79,19 @@ A apresentação deve abordar, no mínimo:
 A apresentação deve ser clara, organizada e compreensível para colegas que ainda estão conhecendo a área.
 
 ### Ordem das apresentacões
-- 09/07/2026
-    * Grupo 
-    * Grupo
-- 16/07/2026
-    * Grupo
-    * Grupo
-- 23/07/2026
-    * Grupo
-    * Grupo
-- 30/07/2026
-    * Grupo
-    * Grupo
+- 09/06/2026
+    * Compiladores e Linguagens de Programação (Grupo 08)
+    * Sistemas Operacionais (Grupo 05)
+- 16/06/2026
+    * Redes de Computadores (Grupo 07)
+    * Banco de Dados (Grupo 03)
+    * Segurança da Informação (Grupo 06)
+- 23/06/2026
+    * Engenharia de Software (Grupo 02)
+    * Inteligência Artificial (Grupo 09)
+- 30/06/2026
+    * Interação Humano-Computador (Grupo 01)
+    * Computação Gráfica (Grupo 04)
 
 ---
 
@@ -183,6 +190,7 @@ O objetivo principal é ajudar os colegas a compreenderem:
 
 ---
 
-## 11. Resultado esperado
-
-Ao final da atividade, espera-se que os alunos sejam capazes de compreender melhor a diversidade de áreas existentes dentro da Ciência da Computação e reconhecer como cada subárea contribui para o desenvolvimento de sistemas, tecnologias, pesquisas e soluções computacionais.
+## 11. ENTREGAS
+- Atividade 06 - Tópicos Iniciais no Latex e Referências
+    * Link para entrega: [https://forms.gle/Shk9EC6HXGyYwKmL7](https://forms.gle/Shk9EC6HXGyYwKmL7)
+    * Entrega até 12/05/2026 as 23:59
