@@ -21,10 +21,44 @@ A atividade busca desenvolver:
 ### Valor da atividade: 4,0
 
 ### Grupos
-- Grupo 01 - 
+- Grupo 01 - Interação Humano-Computador
     * BRUNO REZENDE
     * ISIS LÔBO UCHÔA
-  - 
+- Grupo 02 - Engenharia de Software
+    * LEONARDO TSUYOSHI YAKABE NAGATA
+    * LUCAS DA ROCHA SILVA
+    * MIGUEL MONTENEGRO VEIGA
+- Grupo 03 - Banco de Dados
+    * FELIPE EUZEBIO LUIZ
+    * THIAGO CORSINI PEROGINI
+- Grupo 04 - Computação Gráfica
+    * LETÍCIA SEME CORDEIRO
+    * MARIA EDUARDA DOS SANTOS ANDRADE
+    * NATHALIA ROCHA MUNIZ
+    * SARA LUANA DE OLIVEIRA
+- Grupo 05 - Sistemas Operacionais
+    * DIEGO GUERRA DE ARAUJO
+    * MURILO DE LIMA MAREZI
+    * TIAGO HENRIQUE SAMPAIO
+    * RICARDO BORANDIM FIGUEIREDO
+- Grupo 06 - Segurança da Informação
+    * BRUNO LUIZ TAVARES DE PAULA
+    * GABRIEL MUNHÓZ DA SILVA
+    * GUILHERME NICOLI RODRIGUES
+    * MURILO ANTONIO DE SOUZA NUNES
+- Grupo 07 - Redes de Computadores
+    * ALCIR GIACHINI JUNIOR
+    * JOAO CARLOS GOMES DE LIMA NETO
+    * MATHEUS DRUSKI QUEIRO
+    * PEDRO HENRIQUE DE PAULO BORGES
+- Grupo 08 - Compiladores e Linguagens de Programação
+    * ANDRE CÂNDIDO MACHADO
+    * GABRIEL SOUZA DE OLIVEIRA
+    * HUDSON SENNA PALHARES DA SILVA
+    * PEDRO SIQUEIRA DOS SANTOS
+- Grupo 09 - Inteligência Artificial
+    * ANDRÉ ESTEVÃO HUMENIUK LOPES
+    * LUCAS PENNA DE SOUZA
 
 ---
 
