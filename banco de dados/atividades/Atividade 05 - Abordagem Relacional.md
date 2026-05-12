@@ -148,3 +148,8 @@ a) Quais linhas violam restrições de domínio?
 b) Quais linhas violam restrições de vazio?  
 c) Quais colunas deveriam ser obrigatórias?  
 d) Proponha uma versão corrigida da tabela.
+
+---
+## Entrega
+- A entrega pode ser feita até as 23:59 do dia 12/05/2026
+- A entrega deve ser feita no link: [https://forms.gle/kvX91ibx6YeDYUKFA](https://forms.gle/kvX91ibx6YeDYUKFA)
