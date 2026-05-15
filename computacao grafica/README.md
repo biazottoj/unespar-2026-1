@@ -20,6 +20,8 @@
 	+ Link para a entrega: [https://forms.gle/A3ZgRyovNUGm5qHn8](https://forms.gle/A3ZgRyovNUGm5qHn8)
 - Atividade 06 -  Introducão ao OpenGL com Python (23/04/2026 as 23:59)
 	+ Link para a entrega: [https://forms.gle/iichsRLfNhpskkA66](https://forms.gle/iichsRLfNhpskkA66)
+- Atividade 07 - OpenGL II (até 22/05/2026 as 23:59)
+    * Link para a entrega: [https://forms.gle/1oByycCKznFiwtDT8](https://forms.gle/1oByycCKznFiwtDT8)
 
 ---
 

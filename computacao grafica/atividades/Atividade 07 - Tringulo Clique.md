@@ -60,50 +60,7 @@ Também não é adequado posicionar todos os vértices com valores fixos. A posi
 
 ---
 
-# Exercício 2 — Figura complexa usando polígonos
-
-## Descrição
-
-Crie uma aplicação que desenhe uma figura complexa composta por polígonos preenchidos a partir de um clique na tela.
-
-A figura deve ser formada pela combinação de várias partes geométricas. O objetivo não é criar uma única forma grande e complexa, mas sim decompor uma figura maior em polígonos menores.
-
-Cada parte da figura deve ser posicionada em relação ao ponto clicado.
-
-## Primitivas sugeridas
-
-O aluno pode utilizar primitivas como:
-
-- `GL_POLYGON`;
-- `GL_TRIANGLES`;
-- `GL_QUADS`;
-- `GL_TRIANGLE_FAN`;
-- `GL_TRIANGLE_STRIP`.
-
-## Requisitos mínimos
-
-A figura deve conter:
-
-- pelo menos cinco polígonos preenchidos;
-- pelo menos duas cores diferentes;
-- pelo menos uma parte triangular;
-- pelo menos uma parte com quatro ou mais vértices;
-- pelo menos dois tipos de primitivas poligonais;
-- posicionamento baseado no clique do mouse;
-- organização em funções;
-- redesenho correto após novo clique.
-
-## Cuidados importantes
-
-Evite criar polígonos muito irregulares ou difíceis de preencher corretamente.
-
-Figuras complexas devem ser divididas em formas simples, como triângulos, quadriláteros e polígonos convexos. Essa decomposição torna o desenho mais previsível e facilita a implementação.
-
-O exercício não deve ser resolvido usando apenas linhas. A maior parte da figura deve ser preenchida.
-
----
-
-# Exercício 3 — Triângulo construído com três cliques
+# Exercício 2 — Triângulo construído com três cliques
 
 ## Descrição
 
@@ -160,3 +117,5 @@ Cada aluno ou grupo deve entregar:
 2. um pequeno relatório explicando as decisões tomadas;
 3. uma breve explicação sobre como executar cada programa;
 
+Link para entrega: [https://forms.gle/1oByycCKznFiwtDT8](https://forms.gle/1oByycCKznFiwtDT8)
+Até 22/05/2026
