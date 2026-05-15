@@ -2,7 +2,7 @@
 
 
 ---
-### Atividades
+### Atividades 1o Bimestre
 - Atividade 01 - Introducão a Comp. Gráfica (até 06/03/2026)
 	+ Feita em Sala
 	+ Link para entrega: [https://forms.gle/iT4RdTbVor8fUYaQ6](https://forms.gle/iT4RdTbVor8fUYaQ6) --> MESMO LINK DE ENTREGA PARA DA ATIVIDADE 02
@@ -22,6 +22,8 @@
 	+ Link para a entrega: [https://forms.gle/iichsRLfNhpskkA66](https://forms.gle/iichsRLfNhpskkA66)
 
 ---
+
+### Atividades 2o Bimestre 
 
 ### Observacões / Acordos
 - Prova no dia 08/05 (Sexta-Feira)

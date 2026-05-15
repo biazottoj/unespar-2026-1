@@ -62,10 +62,19 @@ def main():
     glfw.make_context_current(window)
     glfw.swap_interval(1)
 
+    glClearColor(0.1, 0.1, 0.1, 1.0)
+
     while not glfw.window_should_close(window):
-        display()
+        #atualizar_viewport(window)
+
+        glClear(GL_COLOR_BUFFER_BIT)
+
+        desenharTriangulo
+
         glfw.swap_buffers(window)
         glfw.poll_events()
+
+    glfw.terminate()
     
     glfw.destroy_window(window)
     glfw.terminate()
