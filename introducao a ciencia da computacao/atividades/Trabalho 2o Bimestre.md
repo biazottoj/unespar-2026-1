@@ -228,3 +228,11 @@ O objetivo principal é ajudar os colegas a compreenderem:
 - Atividade 06 - Tópicos Iniciais no Latex e Referências
     * Link para entrega: [https://forms.gle/Shk9EC6HXGyYwKmL7](https://forms.gle/Shk9EC6HXGyYwKmL7)
     * Entrega até 12/05/2026 as 23:59
+
+- Atividade 07 - Referencias em Bibtex + Esboco da Introducão
+    * Link para entrega: [https://forms.gle/V2HdJorz6ygjzccMA](https://forms.gle/V2HdJorz6ygjzccMA)
+    * Entrega até 19/05/2026 as 23:59
+
+- Atividade 08 - Introducão completa
+    * Link para entrega: [https://forms.gle/B9vWvzmznWqm1bH67](https://forms.gle/B9vWvzmznWqm1bH67)
+    * Entrega até 22/05/2026 as 23:59
