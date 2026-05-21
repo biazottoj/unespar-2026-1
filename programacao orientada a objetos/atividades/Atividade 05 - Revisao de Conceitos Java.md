@@ -566,3 +566,8 @@ No `main`, crie um vetor de `FormaPagamento` e armazene diferentes formas de pag
 Depois, percorra o vetor chamando o método `pagar`.
 
 O objetivo é perceber que o mesmo método pode executar comportamentos diferentes dependendo do objeto utilizado.
+
+## Entrega
+Até 22/05/2026 (antes da aula)
+Entregue um .zip com todos os códigos
+Use esse link para a entrega: [https://forms.gle/TmFkcykFQxxyNfwh9](https://forms.gle/TmFkcykFQxxyNfwh9)
