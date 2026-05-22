@@ -85,5 +85,10 @@ Depois, percorra o vetor e exiba a área de cada uma.
 
 **Objetivo do exercício:** praticar o uso de uma classe abstrata como tipo comum para diferentes objetos.
 
+## Entrega
+
+- Até dia 22/05/2026 as 23:59
+- Entrega via link: [https://forms.gle/2TjZpaCv31zPxTgv7](https://forms.gle/2TjZpaCv31zPxTgv7)
+
 ---
 
