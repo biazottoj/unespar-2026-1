@@ -190,6 +190,7 @@ A atividade será avaliada considerando os seguintes critérios:
 | **Organização da apresentação** | Sequência lógica, uso adequado do tempo e boa distribuição entre os integrantes. |
 | **Qualidade dos slides** | Clareza visual, objetividade, organização e uso adequado de exemplos, imagens ou diagramas. |
 | **Qualidade do texto dissertativo** | Coerência, clareza, estrutura, profundidade e qualidade da escrita. |
+| **Utilizacão de pelo menos uma imagem e uma figura** | Utilizacao de recursos visuais de apoio para explicar os conceitos abordados. |
 | **Aplicações e exemplos** | Uso de exemplos práticos que ajudem a compreender a importância da subárea. |
 | **Relação com outras áreas** | Capacidade de mostrar como a subárea se conecta com outros conteúdos da Computação. |
 | **Referências utilizadas** | Uso de fontes confiáveis e apresentação adequada das referências. |
