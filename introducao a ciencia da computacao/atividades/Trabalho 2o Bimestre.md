@@ -237,3 +237,12 @@ O objetivo principal é ajudar os colegas a compreenderem:
 - Atividade 08 - Introducão completa
     * Link para entrega: [https://forms.gle/B9vWvzmznWqm1bH67](https://forms.gle/B9vWvzmznWqm1bH67)
     * Entrega até 22/05/2026 as 23:59
+- Atividade 09 - Versão preliminar do trablho escrito
+    * Link para entrega: []()
+    * Entrega até 02/05/2026 as 23:59
+- Atividade 10 - Versão final do trabalho escrito
+    * Link para entrega: []()
+    * Entrega até 07/06/2026 as 23:59
+- Atividade 11 - Entrega dos slides para apresentacão 
+    * Link para entrega: []()
+    * Entrega até 22/05/2026 as 23:59
