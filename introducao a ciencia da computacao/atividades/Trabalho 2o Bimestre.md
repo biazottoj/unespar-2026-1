@@ -239,7 +239,7 @@ O objetivo principal é ajudar os colegas a compreenderem:
     * Entrega até 22/05/2026 as 23:59
 - Atividade 09 - Versão preliminar do trablho escrito
     * Link para entrega: []()
-    * Entrega até 02/05/2026 as 23:59
+    * Entrega até 02/06/2026 as 23:59
 - Atividade 10 - Versão final do trabalho escrito
     * Link para entrega: []()
     * Entrega até 07/06/2026 as 23:59
