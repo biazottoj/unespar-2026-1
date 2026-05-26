@@ -245,4 +245,4 @@ O objetivo principal é ajudar os colegas a compreenderem:
     * Entrega até 07/06/2026 as 23:59
 - Atividade 11 - Entrega dos slides para apresentacão 
     * Link para entrega: []()
-    * Entrega até 22/05/2026 as 23:59
+    * Entrega até 07/06/2026 as 23:59
