@@ -144,3 +144,5 @@ Permita que o usuário altere a cor da última forma desenhada.
 3. Pressiona `Enter`.
 4. O último triângulo desenhado passa a ser verde.
 
+## Entreg
+[https://forms.gle/TomRgtXPsy48Hraz6](https://forms.gle/TomRgtXPsy48Hraz6)
