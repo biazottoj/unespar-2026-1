@@ -522,3 +522,7 @@ e) Aponte uma desvantagem da estratégia escolhida.
 f) Explique por que as outras duas estratégias seriam menos adequadas para esse cenário.
 
 ---
+
+## Entrega
+- A entrega pode ser feita até as 23:59 do dia 02/06/2026
+- A entrega deve ser feita no link: [https://forms.gle/jRmD16iyruzcgduK7](https://forms.gle/jRmD16iyruzcgduK7)
