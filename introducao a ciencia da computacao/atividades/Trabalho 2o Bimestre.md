@@ -238,11 +238,11 @@ O objetivo principal é ajudar os colegas a compreenderem:
     * Link para entrega: [https://forms.gle/B9vWvzmznWqm1bH67](https://forms.gle/B9vWvzmznWqm1bH67)
     * Entrega até 22/05/2026 as 23:59
 - Atividade 09 - Versão preliminar do trablho escrito
-    * Link para entrega: []()
+    * Link para entrega: [https://forms.gle/uUuAL5xtiSQAJNzj6](https://forms.gle/uUuAL5xtiSQAJNzj6)
     * Entrega até 02/06/2026 as 23:59
 - Atividade 10 - Versão final do trabalho escrito
-    * Link para entrega: []()
+    * Link para entrega: [https://forms.gle/gkSEUMjDA1AjMV9d6](https://forms.gle/gkSEUMjDA1AjMV9d6)
     * Entrega até 07/06/2026 as 23:59
 - Atividade 11 - Entrega dos slides para apresentacão 
-    * Link para entrega: []()
+    * Link para entrega: [https://forms.gle/8oT97hdiRS1acCHU7](https://forms.gle/8oT97hdiRS1acCHU7)
     * Entrega até 07/06/2026 as 23:59
