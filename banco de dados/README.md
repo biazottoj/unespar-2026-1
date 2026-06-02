@@ -18,5 +18,6 @@
 - Atividade 05  - Abordagem Relacional (até 12/05/2026)
 - Atividade 06 - Conversão de Modelos (até 19/05/2026)
 - Atividade 07 - Conversão de Heranca (até 02/06/2026)
+- Atividade 08 - Álgebra Relacional I (até 09/06/2026)
 
 ---

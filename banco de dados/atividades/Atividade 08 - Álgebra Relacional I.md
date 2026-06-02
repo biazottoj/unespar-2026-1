@@ -254,3 +254,8 @@ Para as questões 26 a 40, identifique a tabela resultante de cada expressão. N
 ```text
 σ cidade = 'Marialva' ((Matriculados_BD ∩ Matriculados_Web) ∪ (Matriculados_BD ∩ Matriculados_IA) ∪ (Matriculados_IA ∩ Matriculados_Web))
 ```
+
+## Entrega
+- A entrega pode ser feita até as 23:59 do dia 09/06/2026
+- A entrega deve ser feita no link: [https://forms.gle/BrzVQixSNmv6zVTo9](https://forms.gle/BrzVQixSNmv6zVTo9)
+
