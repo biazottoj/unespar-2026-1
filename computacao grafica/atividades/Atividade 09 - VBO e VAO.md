@@ -397,3 +397,8 @@ Se você concluir essa atividade corretamente, estará pronto para estudar com m
 - matrizes;
 - câmera;
 - projeção.
+
+
+# Entrega
+Link para entrega: [https://forms.gle/76Lob2kGL5KwJqRZA](https://forms.gle/76Lob2kGL5KwJqRZA)
+Entrega até 19/06/2026
