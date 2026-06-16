@@ -102,3 +102,6 @@ Use as tabelas abaixo em todos os exercícios.
 - A projeção deve ser usada para manter apenas os atributos solicitados.
 - A renomeação é útil quando a mesma tabela precisa aparecer mais de uma vez na expressão.
 - União, interseção e diferença exigem que as tabelas envolvidas sejam compatíveis, ou seja, tenham o mesmo conjunto de atributos projetados.
+
+## Entrega
+Faca a entrega utilizando o link: [https://forms.gle/ok6KeLPynUnwuWPJ8](https://forms.gle/ok6KeLPynUnwuWPJ8)
