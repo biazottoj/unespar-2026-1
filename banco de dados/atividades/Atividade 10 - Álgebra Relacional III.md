@@ -1,24 +1,5 @@
 # Atividade — Álgebra Relacional com Dados Vazios
 
-## Observação sobre dados vazios
-
-Nesta atividade, o símbolo `<N>` representa um **dado vazio**, isto é, uma informação que não foi cadastrada.
-
-Exemplos:
-
-- `email = <N>` indica que o aluno não possui e-mail cadastrado.
-- `nota = <N>` indica que a nota ainda não foi lançada.
-- `professor = <N>` indica que a disciplina ainda não possui professor cadastrado.
-
-Para fins desta atividade, considere que é possível escrever condições como:
-
-```text
-σ email = <N> (aluno)
-σ nota <> <N> (matricula)
-```
-
----
-
 # Conjunto de tabelas
 
 Use as tabelas abaixo para responder todas as questões.
