@@ -70,4 +70,6 @@ Requisitos:
 ---
 
 # Entrega:
+Entregue a atividade utilizando o link:[https://forms.gle/2Y91zh6ibmBsNj4J8](https://forms.gle/2Y91zh6ibmBsNj4J8)
 
+Entrega até: 03/06/2026

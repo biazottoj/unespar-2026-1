@@ -26,6 +26,15 @@
 ---
 
 ### Atividades 2o Bimestre 
+- Atividade 08 - OpenGL III (Eventos teclado)
+    * Até 29/05/2026
+    * Link para entrega:[https://forms.gle/TomRgtXPsy48Hraz6](https://forms.gle/TomRgtXPsy48Hraz6)
+- Atividade 09 - OpenGL IV (VAO e VBO I)
+    * Até 19/06/2026
+    * Link para entrega: [https://forms.gle/76Lob2kGL5KwJqRZA](https://forms.gle/76Lob2kGL5KwJqRZA)
+- Atividade 10 - OpenGL V (VAO e VBO II)
+    * Até 03/07/2026
+    * Link para entrega: [https://forms.gle/2Y91zh6ibmBsNj4J8](https://forms.gle/2Y91zh6ibmBsNj4J8)
 
 ### Observacões / Acordos
 - Prova no dia 08/05 (Sexta-Feira)
