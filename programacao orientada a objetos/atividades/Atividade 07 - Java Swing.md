@@ -373,3 +373,8 @@ botao.addActionListener(e -> calcularMedia());
 ```
 
 Em vez de colocar toda a lógica diretamente dentro do `addActionListener`.
+
+## Entrega
+
+- Até dia 26/06/2026 as 23:59
+- Link para entrega: [https://forms.gle/1wow6D9HuBJ8XFif7](https://forms.gle/1wow6D9HuBJ8XFif7)
