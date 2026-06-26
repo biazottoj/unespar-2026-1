@@ -116,7 +116,7 @@ def init():
         GL_FLOAT,
         GL_FALSE,
         6*4,
-        ctypes.c_void_p(1)
+        ctypes.c_void_p(3 * 4) #offset dentro do array
     )
     glEnableVertexAttribArray(1)
 
@@ -130,7 +130,7 @@ def init():
 
 # Renderizar as imagens
 def render(shader_program, VAO):
-    glClearColor(0.1, 0.1, 0.5, 1.0)
+    glClearColor(0.3, 0.3, 0.3, 1.0)
     glClear(GL_COLOR_BUFFER_BIT)
 
     glUseProgram(shader_program)
