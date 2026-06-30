@@ -177,3 +177,6 @@ Considere que as tabelas já foram criadas.
 
 **11.** A empresa alterou sua regra de negócio e definiu que novas locações devem iniciar com o status `AGUARDANDO_PAGAMENTO`. Escreva o comando para alterar o valor padrão da coluna `status` da tabela `locacao`.
 
+## Entrega:
+- Utilize a o link para entrega: [https://forms.gle/hvkczjS7k3T6oHrG6](https://forms.gle/hvkczjS7k3T6oHrG6)
+- Entrga até 07/07/2026 as 23:59

@@ -21,6 +21,7 @@
 - Atividade 08 - Álgebra Relacional I (até 09/06/2026)
 - Atividade 09 - Álgebra Relacional II (até 16/06/2026)
 - Atividade 10 - Álgebra Relacional III (até 23/06/2026)
+- Atividade 11 - Comandos DDL I (até 23/06/2026)
 
 #### Outros
 

@@ -1,0 +1,72 @@
+-- Deletando tabelas para poder reusar os comandos
+
+DROP TABLE IF EXISTS matricula;
+DROP TABLE IF EXISTS aluno;
+DROP TABLE IF EXISTS disciplina;
+
+-- Criando Tabela Alunos--
+CREATE TABLE aluno(
+id_aluno INTEGER NOT NULL,
+nome_aluno VARCHAR(80) NOT NULL,
+email_aluno VARCHAR (80) NOT NULL,
+cidade VARCHAR(80) NULL,
+uf VARCHAR(2) NULL,
+
+-- criando chave primária de aluno
+CONSTRAINT pk_aluno
+  PRIMARY KEY (id_aluno),
+
+CONSTRAINT email_unico
+  UNIQUE(email_aluno));
+ 
+ -- Criando tabela Disciplina --
+CREATE TABLE disciplina(
+ 
+   id_disciplina INTEGER NOT NULL,
+   nome_disciplina VARCHAR(80) NOT NULL,
+   carga_horaria_disciplina INTEGER NOT NULL,
+   data_inicio_disciplina DATE NULL,
+   modalidade_disciplina VARCHAR(20) DEFAULT 'Presencial' NOT NULL,
+   
+   CONSTRAINT pk_disciplina
+   	PRIMARY KEY (id_disciplina));
+    
+
+ CREATE TABLE matricula (
+   id_matricula INTEGER NOT NULL,
+   id_aluno INTEGER NOT NULL,
+   id_disciplina INTEGER NOT NULL,
+   data_matricula DATE DEFAULT (CURRENT_DATE) NOT NULL,
+   status_matricula VARCHAR(20) DEFAULT 'PENDENTE' NOT NULL,
+   observacao_matricula VARCHAR (250) NULL,
+ 
+ CONSTRAINT pk_matricula
+   PRIMARY KEY (id_matricula),
+   
+   CONSTRAINT fk_aluno
+   FOREIGN KEY (id_aluno)
+   REFERENCES aluno (id_aluno),
+   
+   CONSTRAINT fk_disciplina
+   FOREIGN KEY (id_disciplina)
+   REFERENCES disciplina (id_disciplina)
+ );
+ 
+ALTER TABLE aluno
+ADD COLUMN telefone VARCHAR(20) NULL;
+
+ALTER TABLE disciplina
+ADD COLUMN vagas INTEGER DEFAULT 30 NOT NULL;
+
+-- ALTER COLUMN --> POSTGRES
+-- MODIFY COLUMN --> MYSQL
+
+ALTER TABLE disciplina
+ALTER COLUMN data_inicio_disciplina SET NOT NULL;
+
+ALTER TABLE disciplina
+ADD CONSTRAINT nome_disciplina_unico
+UNIQUE(nome_disciplina);
+
+ALTER TABLE aluno
+DROP COLUMN uf;
