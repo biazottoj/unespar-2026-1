@@ -142,11 +142,7 @@ Dê nomes às restrições criadas.
 
 ---
 
-**6.** A empresa deseja impedir que um cliente seja removido enquanto ainda possuir locações registradas. Complete a definição da chave estrangeira de `locacao.id_cliente` usando uma ação adequada de `ON DELETE`. Explique por que essa ação é apropriada.
-
----
-
-**7.** Escreva o comando `CREATE TABLE` para criar a tabela `item_locacao`, considerando as regras abaixo:
+**6.** Escreva o comando `CREATE TABLE` para criar a tabela `item_locacao`, considerando as regras abaixo:
 
 - `id_locacao` e `id_equipamento` são obrigatórios;
 - `quantidade` é um número inteiro obrigatório;
@@ -163,19 +159,19 @@ Dê nomes às três restrições.
 
 Considere que as tabelas já foram criadas.
 
-**8.** Escreva o comando para adicionar à tabela `cliente` uma coluna opcional chamada `cpf`, capaz de armazenar até 14 caracteres.
+**7.** Escreva o comando para adicionar à tabela `cliente` uma coluna opcional chamada `cpf`, capaz de armazenar até 14 caracteres.
 
 ---
 
-**9.** Após cadastrar vários clientes, a empresa decidiu que o CPF não pode se repetir. Escreva o comando `ALTER TABLE` necessário para adicionar uma restrição `UNIQUE` à coluna `cpf`. Dê um nome adequado à restrição.
+**8.** Após cadastrar vários clientes, a empresa decidiu que o CPF não pode se repetir. Escreva o comando `ALTER TABLE` necessário para adicionar uma restrição `UNIQUE` à coluna `cpf`. Dê um nome adequado à restrição.
 
 ---
 
-**10.** A empresa percebeu que todos os equipamentos precisam possuir uma categoria. Escreva o comando que transforma a coluna `categoria` da tabela `equipamento` de opcional para obrigatória.
+**9.** A empresa percebeu que todos os equipamentos precisam possuir uma categoria. Escreva o comando que transforma a coluna `categoria` da tabela `equipamento` de opcional para obrigatória.
 
 ---
 
-**11.** A empresa alterou sua regra de negócio e definiu que novas locações devem iniciar com o status `AGUARDANDO_PAGAMENTO`. Escreva o comando para alterar o valor padrão da coluna `status` da tabela `locacao`.
+**10.** A empresa alterou sua regra de negócio e definiu que novas locações devem iniciar com o status `AGUARDANDO_PAGAMENTO`. Escreva o comando para alterar o valor padrão da coluna `status` da tabela `locacao`.
 
 ## Entrega:
 - Utilize a o link para entrega: [https://forms.gle/hvkczjS7k3T6oHrG6](https://forms.gle/hvkczjS7k3T6oHrG6)
