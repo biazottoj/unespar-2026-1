@@ -11,7 +11,19 @@
  	+ Link para entrega: [https://forms.gle/wSxJw7ectJJH6bL7A](https://forms.gle/wSxJw7ectJJH6bL7A)
 - Atividade 04 -  Modelagem e representação de objetos (até 17/04/2026 as 23:59)
 	+ Link para entrega: [https://forms.gle/KGz56uYU6YYyPapn8](https://forms.gle/KGz56uYU6YYyPapn8)
+
 ---
+
+### Slides das das apresentacoes do trabalho
+
+Utilize o link abaixo para acessar os slides entregues por todos os grupos.
+
+Lembrando que o conteúdo da desses slides é o conteúdo da prova.
+
+[https://drive.google.com/drive/folders/1xsh94kPs-fhQGxqHkUcW4xZFF7vxFEbPDdlXcgutn5B7Wxs9dFNX9i1a6d_rE-rhVND7hnRV?usp=sharing](https://drive.google.com/drive/folders/1xsh94kPs-fhQGxqHkUcW4xZFF7vxFEbPDdlXcgutn5B7Wxs9dFNX9i1a6d_rE-rhVND7hnRV?usp=sharing)
+
+---
+
 
 ### Observacões / Acordos
 - Prova no dia 05/05 (Terca-Feira)
