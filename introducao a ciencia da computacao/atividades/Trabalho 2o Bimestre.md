@@ -246,3 +246,6 @@ O objetivo principal é ajudar os colegas a compreenderem:
 - Atividade 11 - Entrega dos slides para apresentacão 
     * Link para entrega: [https://forms.gle/8oT97hdiRS1acCHU7](https://forms.gle/8oT97hdiRS1acCHU7)
     * Entrega até 07/06/2026 as 23:59
+- Ativdiade 12 - Conclusão
+    * Link para a entrega: [https://forms.gle/TFK9LH3xqYyh5B8q7](https://forms.gle/TFK9LH3xqYyh5B8q7)
+    * Até dia 07/07/2026
