@@ -14,16 +14,17 @@
 
 ---
 
-### Slides das das apresentacoes do trabalho
+### PROVA DO 2o BIMESTRE
+#### Conteúdo:
+Para o 2o bimestre, a prova vai ser baseada nos conteúdos dos slides das apresentacões. Os slides estão disponíveis no link abaixo:
+- [https://drive.google.com/drive/folders/1xsh94kPs-fhQGxqHkUcW4xZFF7vxFEbPDdlXcgutn5B7Wxs9dFNX9i1a6d_rE-rhVND7hnRV?usp=sharing](https://drive.google.com/drive/folders/1xsh94kPs-fhQGxqHkUcW4xZFF7vxFEbPDdlXcgutn5B7Wxs9dFNX9i1a6d_rE-rhVND7hnRV?usp=sharing)
 
-Utilize o link abaixo para acessar os slides entregues por todos os grupos.
-
-Lembrando que o conteúdo da desses slides é o conteúdo da prova.
-
-[https://drive.google.com/drive/folders/1xsh94kPs-fhQGxqHkUcW4xZFF7vxFEbPDdlXcgutn5B7Wxs9dFNX9i1a6d_rE-rhVND7hnRV?usp=sharing](https://drive.google.com/drive/folders/1xsh94kPs-fhQGxqHkUcW4xZFF7vxFEbPDdlXcgutn5B7Wxs9dFNX9i1a6d_rE-rhVND7hnRV?usp=sharing)
+#### Simulado
+- Está disponível um simulado no Github. Esse simulado contém um conjunto de 10 questões por apresentacão. 
+- O gabarito do simulado vai ser disponibilizado amanhã.
+- O simulado é a **melhor** fonte de estudo para a prova.
 
 ---
-
 
 ### Observacões / Acordos
 - Prova no dia 05/05 (Terca-Feira)
