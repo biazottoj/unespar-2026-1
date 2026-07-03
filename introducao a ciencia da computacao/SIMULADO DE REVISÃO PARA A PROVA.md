@@ -1,19 +1,5 @@
 # Simulado Integrador - Introdução à Ciência da Computação
 
-**Temas avaliados:** Banco de Dados; Computação Gráfica; Engenharia de Software; Interação Humano-Computador; Segurança da Informação; Sistemas Operacionais; Compiladores e Linguagens de Programação.
-
-**Tempo sugerido:** 120 minutos  
-**Valor total:** 70,0 pontos  
-**Quantidade de questões:** 70 questões, distribuídas em 7 blocos temáticos.
-
-## Orientações gerais
-
-1. Cada bloco possui 10 questões e vale **10,0 pontos**.
-2. As questões **1 a 3** de cada bloco são **dissertativas conceituais**. Responda de forma objetiva, em até **3 linhas**.
-3. As questões **4 a 10** de cada bloco são **discursivas de análise e aplicação**. Responda em até **4 linhas**, identificando o conceito envolvido e justificando sua resposta.
-4. Nas questões contextualizadas, não basta apenas citar um termo. Explique brevemente por que ele se aplica ao cenário.
-5. A prova privilegia análise conceitual de situações simples. Não é necessário escrever código, configurar ferramentas ou detalhar procedimentos técnicos avançados.
-
 ---
 
 # Bloco 1 - Banco de Dados
