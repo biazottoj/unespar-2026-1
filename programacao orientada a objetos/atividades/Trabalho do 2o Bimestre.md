@@ -1,4 +1,4 @@
-# Atividade — Evolução do Cadastro de Filmes com Java Swing e MVC
+# Trabalho 2o Bimestre — Evolução do Cadastro de Filmes com Java Swing e MVC
 
 ## Objetivo
 
@@ -236,5 +236,5 @@ ___
 
 ## Entrega
 
-- Até dia 03/07/2026 as 23:59
+- Até dia 17/07/2026 as 12:00
 - Link para entrega: [https://forms.gle/6zd7n9bQmAJtkfJHA](https://forms.gle/6zd7n9bQmAJtkfJHA)

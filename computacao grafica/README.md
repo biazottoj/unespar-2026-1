@@ -35,6 +35,9 @@
 - Atividade 10 - OpenGL V (VAO e VBO II)
     * Até 03/07/2026
     * Link para entrega: [https://forms.gle/2Y91zh6ibmBsNj4J8](https://forms.gle/2Y91zh6ibmBsNj4J8)
+- Atividade 11 - Curvas de Beziér
+    * Até 17/07/2026
+    * Link para Entrega (TBD)
 
 ### Observacões / Acordos
 - Prova no dia 08/05 (Sexta-Feira)

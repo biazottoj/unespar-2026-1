@@ -18,8 +18,10 @@
     * Link para entrega: [https://forms.gle/vcWDMFsjEScAYH8V7](https://forms.gle/vcWDMFsjEScAYH8V7)
 
 
-## Trabalho 2o Bimestre (TBD)
-
+## Trabalho 2o Bimestre - Cadastro de Filmes
+- O trabalho está disponível na paste "atividades"
+- Data de Entrega e Apresentacão: 17/07/2026
+- Valor: 4,0
 
 ## Prova 2o Bimestre
 - Data: 10/07/2026
