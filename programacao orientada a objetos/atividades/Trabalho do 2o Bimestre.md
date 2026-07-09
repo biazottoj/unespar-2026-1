@@ -236,5 +236,5 @@ ___
 
 ## Entrega
 
-- Até dia 17/07/2026 as 12:00
+- Até dia 18/07/2026 as 23:59
 - Link para entrega: [https://forms.gle/6zd7n9bQmAJtkfJHA](https://forms.gle/6zd7n9bQmAJtkfJHA)
