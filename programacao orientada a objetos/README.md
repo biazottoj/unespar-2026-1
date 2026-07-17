@@ -13,10 +13,6 @@
 - Atividade 07 - Java Swing
     * Até 26/06/2026
     * * Link para entrega: [https://forms.gle/1wow6D9HuBJ8XFif7](https://forms.gle/1wow6D9HuBJ8XFif7)
-- Atividade 08 - Java Swing II
-    * Até 03/07/2026
-    * Link para entrega: [https://forms.gle/vcWDMFsjEScAYH8V7](https://forms.gle/vcWDMFsjEScAYH8V7)
-
 
 ## Trabalho 2o Bimestre - Cadastro de Filmes
 - O trabalho está disponível na paste "atividades"
