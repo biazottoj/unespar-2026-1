@@ -102,3 +102,5 @@ Permita ao usuário mover pelo menos um dos pontos de controle usando o teclado.
   - ponto selecionado.
 
 ---
+### Entrega:
+- Utilize o link a seguir para a entrega: [https://forms.gle/VSWN8bf6QfGsvUtG6](https://forms.gle/VSWN8bf6QfGsvUtG6)
