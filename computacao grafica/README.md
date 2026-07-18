@@ -37,7 +37,7 @@
     * Link para entrega: [https://forms.gle/2Y91zh6ibmBsNj4J8](https://forms.gle/2Y91zh6ibmBsNj4J8)
 - Atividade 11 - Curvas de Beziér
     * Até 17/07/2026
-    * Link para Entrega (TBD)
+    * Link para Entrega: [https://forms.gle/VSWN8bf6QfGsvUtG6](https://forms.gle/VSWN8bf6QfGsvUtG6) 
 - Trabalho do 2o Bimestre
     * Até 18/07/2026
     * Link para entrega: [https://forms.gle/cwQjWUQ7nm9oGTD36](https://forms.gle/cwQjWUQ7nm9oGTD36)
