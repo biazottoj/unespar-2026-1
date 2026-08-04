@@ -24,6 +24,11 @@
 - Atividade 11 - Comandos DDL I (até 07/07/2026)
 - TRABALHO 2o BIMESTRE - Até 18/07/2026 (Valor: 4,0)
 
+---
+
+#### 3o Bimestre
+- Atividade 12 - Consultas SQL com SELECT (até 11/08/2026)
+
 #### CONTEÚDO PARA AS AVALIACÕES:
 
 - 2o Bimestre:
@@ -34,5 +39,6 @@
 #### Outros
 
 - Dados sobre o projeto de práticas extensionistas: [https://forms.gle/MLRbU8un4bheVBVE9](https://forms.gle/MLRbU8un4bheVBVE9)
+- Programiz (Editor SQL Online): [https://www.programiz.com/sql/online-compiler](https://www.programiz.com/sql/online-compiler)
 
 ---

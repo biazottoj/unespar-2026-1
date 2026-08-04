@@ -174,3 +174,6 @@ Para cada questão, apresente:
 
 - o número da questão;
 - o comando SQL utilizado;
+
+- Utilize o link para entregar a atividade: [https://forms.gle/ABg3n6dQs9PF5zTq9](https://forms.gle/ABg3n6dQs9PF5zTq9)
+- Até 11/08/2026
