@@ -11,7 +11,6 @@ Praticar os conceitos de consultas SQL estudados em aula por meio de um banco de
 - funções `UPPER` e `LOWER`;
 - operador `LIKE`;
 - consultas envolvendo várias tabelas;
-- tratamento de duplicatas com `ALL` e `DISTINCT`.
 
 ## Banco de dados
 
@@ -33,7 +32,7 @@ O banco contém quatro tabelas:
 ## Preparação
 
 1. Acesse o compilador SQL do Programiz.
-2. Importe o arquivo `banco_streaming_programiz.sql`.
+2. Importe o arquivo `Atividade 12 - BD Sistema de Streaming.sql`.
 3. Execute o script para criar e preencher as tabelas.
 4. Apague ou comente a consulta de verificação localizada ao final do arquivo.
 5. Escreva e execute uma consulta para cada questão.
@@ -168,24 +167,6 @@ Obtenha o nome de cada usuário, sua cidade, o nome do plano contratado e o pre�
 
 Para cada visualização de um conteúdo do tipo `Série`, obtenha o nome do usuário, o título da série, a data da visualização e o percentual assistido.
 
----
-
-## Parte 5 — Duplicatas: `ALL` e `DISTINCT`
-
-### Questão 29
-
-Obtenha os diferentes gêneros existentes no catálogo. Cada gênero deve aparecer apenas uma vez no resultado.
-
-### Questão 30
-
-Escreva duas consultas para obter os identificadores dos usuários presentes na tabela `visualizacao`:
-
-1. uma consulta que preserve todas as ocorrências, inclusive as repetidas, usando `ALL`;
-2. uma consulta que elimine os identificadores repetidos usando `DISTINCT`.
-
-Depois de executar as duas consultas, descreva brevemente a diferença observada entre os resultados.
-
----
 
 ## Entrega
 
@@ -193,4 +174,3 @@ Para cada questão, apresente:
 
 - o número da questão;
 - o comando SQL utilizado;
-- o resultado obtido no Programiz.
