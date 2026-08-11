@@ -47,17 +47,26 @@ O banco contém quatro tabelas:
 
 Obtenha todos os dados cadastrados na tabela `usuario`.
 
+ _SELECT * FROM usuario_
+
 ### Questão 2
 
 Obtenha todos os dados cadastrados na tabela `conteudo`.
+
+_SELECT * FROM conteudo_
 
 ### Questão 3
 
 Obtenha apenas o identificador, o título e o tipo de cada conteúdo.
 
+_SELECT id_conteudo, titulo, tipo FROM conteudo_
+
+
 ### Questão 4
 
 Obtenha o identificador, o nome, o e-mail e a cidade de cada usuário.
+
+_SELECT id_usuario, nome_usuario, email, cidade FROM usuario_
 
 ### Questão 5
 
@@ -75,33 +84,51 @@ Obtenha o nome, o preço mensal, a qualidade de vídeo e a quantidade de telas s
 
 Obtenha todos os dados dos usuários cuja cidade seja exatamente `Curitiba`.
 
+_SELECT * FROM usuario WHERE cidade = "Curitiba"_
+
+
 ### Questão 8
 
 Obtenha o identificador, o título e a duração dos conteúdos cuja duração seja maior que 120 minutos.
+
+_SELECT id_conteudo, titulo, duracao_minutos FROM conteudo WHERE duracao_minutos > 120_
+
 
 ### Questão 9
 
 Obtenha todos os dados dos conteúdos que sejam do tipo `Filme`, pertençam ao gênero `Drama` **e** possuam classificação indicativa menor ou igual a 16 anos.
 
+_SELECT * FROM conteudo WHERE tipo = "Filme" AND genero = "Drama" AND classificacao_indicativa <= 16_
+
 ### Questão 10
 
 Obtenha o identificador, o título e o gênero dos conteúdos que pertençam ao gênero `Animação` **ou** ao gênero `Suspense`.
+
+_SELECT id_conteudo, titulo, genero FROM conteudo WHERE (genero = "Suspense" OR genero = "Animação")_ 
 
 ### Questão 11
 
 Obtenha o identificador, o nome e o preço mensal dos planos cujo preço seja maior ou igual a 30 reais.
 
+_SELECT id_plano, nome_plano, preco_mensal FROM plano WHERE preco_mensal >= 30_
+
 ### Questão 12
 
 Obtenha todos os dados dos usuários cuja cidade seja diferente exatamente da cadeia `São Paulo`, incluindo os usuários que não possuem cidade informada.
+
+_SELECT * FROM usuario WHERE cidade <> "São Paulo"_
 
 ### Questão 13
 
 Obtenha o identificador, o nome e o e-mail dos usuários que não possuem cidade informada.
 
+_SELECT id_usuario, nome_usuario, email FROM usuario WHERE cidade IS NULL_ 
+
 ### Questão 14
 
 Obtenha o identificador, o título, o país de origem e o idioma original dos conteúdos que possuem idioma original informado.
+
+_SELECT id_conteudo, titulo, pais_origem, idioma_original FROM conteudo WHERE idioma_original IS NOT NULL_
 
 ### Questão 15
 
@@ -123,6 +150,8 @@ Obtenha o identificador e o título dos conteúdos cujo título termina com a le
 
 Obtenha o identificador e o título dos conteúdos cujo título possui exatamente quatro caracteres.
 
+_SELECT id_conteudo, titulo FROM conteudo WHERE titulo LIKE "____"_
+
 ### Questão 19
 
 Obtenha o identificador e o título dos conteúdos cujo título começa com a letra `O` maiúscula e termina com a letra `o` minúscula.
@@ -139,6 +168,12 @@ Obtenha o identificador, o título e o gênero dos conteúdos cujo título conte
 
 Para cada visualização do conteúdo denominado `Horizonte Perdido`, obtenha o identificador do usuário, o nome do usuário, a data da visualização e o percentual assistido.
 
+_SELECT usuario.id_usuario, usuario.nome_usuario, visualizacao.data_visualizacao, visualizacao.percentual_assistido 
+FROM usuario, visualizacao, conteudo 
+WHERE conteudo.titulo = "Horizonte Perdido" 
+AND visualizacao.id_conteudo = conteudo.id_conteudo
+AND visualizacao.id_usuario = usuario.id_usuario_
+
 ### Questão 22
 
 Para cada visualização registrada, obtenha o nome do usuário, o título do conteúdo, a data da visualização e o percentual assistido.
@@ -150,6 +185,12 @@ Para cada visualização registrada, obtenha o nome do usuário, o nome do plano
 ### Questão 24
 
 Obtenha o identificador e o nome de cada usuário que tenha assistido a um conteúdo do tipo `Documentário`. Nesta questão, linhas duplicadas podem permanecer no resultado.
+
+_SELECT usuario.id_usuario, usuario.nome_usuario 
+FROM usuario, visualizacao, conteudo
+WHERE conteudo.tipo = "Documentário" AND
+usuario.id_usuario = visualizacao.id_usuario AND
+conteudo.id_conteudo = visualizacao.id_conteudo_
 
 ### Questão 25
 
@@ -167,6 +208,11 @@ Obtenha o nome de cada usuário, sua cidade, o nome do plano contratado e o pre�
 
 Para cada visualização de um conteúdo do tipo `Série`, obtenha o nome do usuário, o título da série, a data da visualização e o percentual assistido.
 
+_SELECT nome_usuario, titulo, data_visualizacao, percentual_assistido
+FROM usuario, visualizacao, conteudo
+WHERE tipo = "Série" AND
+usuario.id_usuario = visualizacao.id_usuario AND
+conteudo.id_conteudo = visualizacao.id_conteudo_
 
 ## Entrega
 
