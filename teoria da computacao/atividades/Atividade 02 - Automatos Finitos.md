@@ -62,7 +62,7 @@ Apresente:
 
 Teste o AFD com:
 
-`b`, `aba`, `abb`, `baa`, \(\varepsilon\).
+`b`, `aba`, `abb`, `baa`, `E (vazio).
 
 ---
 
