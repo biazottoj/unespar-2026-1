@@ -76,12 +76,6 @@ Construa um AFD sobre:
 
 que aceite palavras de **comprimento ímpar**.
 
-Teste:
-
-\[
-\varepsilon,\quad 0,\quad 01,\quad 101,\quad 1010
-\]
-
 Explique o que cada estado representa.
 
 ---
