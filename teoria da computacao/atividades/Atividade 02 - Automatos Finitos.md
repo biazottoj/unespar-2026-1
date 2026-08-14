@@ -36,7 +36,7 @@ b) `b`
 c) `aba`  
 d) `abb`  
 e) `bba`  
-f) \(\varepsilon\)
+f) `E (vazio)`  
 
 Ao final, descreva em português qual linguagem esse AFD reconhece.
 
@@ -62,7 +62,7 @@ Apresente:
 
 Teste o AFD com:
 
-`b`, `aba`, `abb`, `baa`, \(\varepsilon\).
+`b`, `aba`, `abb`, `baa`, `E (vazio).`
 
 ---
 
