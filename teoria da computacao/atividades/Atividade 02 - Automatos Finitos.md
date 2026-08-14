@@ -62,7 +62,7 @@ Apresente:
 
 Teste o AFD com:
 
-`b`, `aba`, `abb`, `baa`, `E (vazio).
+`b`, `aba`, `abb`, `baa`, `E (vazio).`
 
 ---
 
