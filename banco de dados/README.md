@@ -28,6 +28,8 @@
 
 #### 3o Bimestre
 - Atividade 12 - Consultas SQL com SELECT (até 11/08/2026)
+- Atividade 13 - Consultas SQL II (Até 18/08/2026)
+    * Entrega via link: [https://forms.gle/KYq8UL27wGJkdS4n7](https://forms.gle/KYq8UL27wGJkdS4n7)
 
 #### CONTEÚDO PARA AS AVALIACÕES:
 
