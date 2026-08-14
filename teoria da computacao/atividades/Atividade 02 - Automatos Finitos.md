@@ -36,7 +36,7 @@ b) `b`
 c) `aba`  
 d) `abb`  
 e) `bba`  
-f) E (vazio)
+f) `E`  
 
 Ao final, descreva em português qual linguagem esse AFD reconhece.
 
