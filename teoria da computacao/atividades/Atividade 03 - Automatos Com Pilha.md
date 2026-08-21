@@ -4,13 +4,11 @@ A lista abaixo contém **4 exercícios em ordem progressiva de dificuldade** sob
 
 ---
 
-## Exercício 1 — Simulação de um AP para \(a^n b^n\)
+## Exercício 1 — Simulação de um AP para (a^n b^n)
 
 Considere um Autômato com Pilha que reconhece:
 
-\[
-L=\{a^n b^n \mid n\geq0\}
-\]
+L={a^n b^n | n >= 0}
 
 utilizando a estratégia:
 
@@ -56,13 +54,11 @@ Depois, explique por que uma pilha é uma estrutura adequada para esse tipo de l
 
 ---
 
-## Exercício 3 — Linguagem \(a^n c b^n\)
+## Exercício 3 — Linguagem (a^n c b^n)
 
 Construa a estratégia de um AP para reconhecer:
 
-\[
-L=\{a^n c b^n \mid n\geq0\}
-\]
+L={a^n c b^n | n >= 0}
 
 Exemplos aceitos:
 
@@ -93,13 +89,10 @@ Apresente:
 
 ---
 
-## Exercício 4 — Linguagem \(a^n b^m a^n\)
+## Exercício 4 — Linguagem (a^n b^m a^n)
 
 Construa conceitualmente um AP que reconheça:
-
-\[
-L=\{a^n b^m a^n \mid n\geq0,\ m>0\}
-\]
+L={a^n b^m a^n | n >= 0, m > 0}
 
 Exemplos aceitos:
 
