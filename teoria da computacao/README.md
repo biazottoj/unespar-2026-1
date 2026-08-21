@@ -11,8 +11,9 @@
 - Atividade 02 - AFD
     * Até 14/08/2026
     * Entrega via link: [https://forms.gle/uoxM9qQgzojy7V7C9](https://forms.gle/uoxM9qQgzojy7V7C9)
-
-___
+- Atividade 03 - Autômato com Pilha
+    * Entrega até 28/08/2026
+    * Entrega via link: [https://forms.gle/BuzwNLCKfHuarWjj7](https://forms.gle/BuzwNLCKfHuarWjj7)
 
 #### CONTEÚDO PARA AS AVALIACÕES:
 
