@@ -30,6 +30,8 @@
 - Atividade 12 - Consultas SQL com SELECT (até 11/08/2026)
 - Atividade 13 - Consultas SQL II (Até 18/08/2026)
     * Entrega via link: [https://forms.gle/KYq8UL27wGJkdS4n7](https://forms.gle/KYq8UL27wGJkdS4n7)
+- Atividade 14 - Consultas SQL III (Até 01/09/2026)
+    * Entrega via link: [https://forms.gle/6jqQv6syUJQcxq148](https://forms.gle/6jqQv6syUJQcxq148)
 
 #### CONTEÚDO PARA AS AVALIACÕES:
 
