@@ -33,6 +33,10 @@
 - Atividade 14 - Consultas SQL III (Até 01/09/2026)
     * Entrega via link: [https://forms.gle/6jqQv6syUJQcxq148](https://forms.gle/6jqQv6syUJQcxq148)
 
+## PROVA
+- Prova 3o Bimestre
+    * Data: 22/09/2026
+    
 #### CONTEÚDO PARA AS AVALIACÕES:
 
 - 2o Bimestre:

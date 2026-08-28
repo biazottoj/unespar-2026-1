@@ -24,15 +24,7 @@
     * Até 04/09/2026
     * Link para entrega: [https://forms.gle/2tD83aNs61M4qfDv7](https://forms.gle/2tD83aNs61M4qfDv7)
 
-## Trabalho 2o Bimestre - Cadastro de Filmes
-- O trabalho está disponível na paste "atividades"
-- Data de Entrega e Apresentacão: 17/07/2026
-- Valor: 4,0
-
-## Prova 2o Bimestre
-- Data: 10/07/2026
-- Conteúdo
-    * Polimorfismo
-    * Java Swing
-    * Modelo MVC
+## PROVA
+- Prova 3o Bimestre
+    * Data: 25/09/2026
 

@@ -53,6 +53,9 @@
 	+ As atividades que foram entregues fora do prazo (de acordo com a secão anterior) vão valer metade da nota
 - Atividades que foram feitas em sala podem ser entregues. Elas vão valer metade da nota (pois estão sendo entregues 
 
+## PROVA
+- Prova 3o Bimestre
+    * Data: 22/09/2026
 
 ### Links Úteis
 

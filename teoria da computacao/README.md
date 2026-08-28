@@ -15,14 +15,7 @@
     * Entrega até 28/08/2026
     * Entrega via link: [https://forms.gle/BuzwNLCKfHuarWjj7](https://forms.gle/BuzwNLCKfHuarWjj7)
 
-#### CONTEÚDO PARA AS AVALIACÕES:
+## PROVA
+- Prova 3o Bimestre
+    * Data: 25/09/2026
 
-- 1o Bimestre
-- 2o Bimestre
-
-#### Outros
-
-- Dados sobre o projeto de práticas extensionistas: [https://forms.gle/MLRbU8un4bheVBVE9](https://forms.gle/MLRbU8un4bheVBVE9)
-- Programiz (Editor SQL Online): [https://www.programiz.com/sql/online-compiler](https://www.programiz.com/sql/online-compiler)
-
----
