@@ -10,6 +10,8 @@ Utilize o arquivo `banco_streaming_revisao_sql_programiz.sql` no Programiz antes
 
 Cada exercício exige combinar vários recursos SQL em uma mesma consulta. Ao longo da lista, você deverá utilizar `SELECT`, `WHERE`, operadores lógicos, aliases, expressões, `DISTINCT`, `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `GROUP BY`, `COUNT`, `SUM`, `AVG`, `HAVING`, `ORDER BY`, `UNION`, `INTERSECT` e subconsultas.
 
+OBS: OS COMANDOS INDICADOS EM CADA QUESTÃO É PARA AJUDAR NA RESOLUCAO DELAS. OUTROS COMANDOS TAMBÉM PODEM SER UTILIZADOS ONDE NECESSÁRIO
+
 ## 1. Filmes longos assistidos por usuários com plano
 
 Liste os usuários que assistiram a conteúdos do tipo `Filme` com duração superior a 100 minutos. Apresente nome do usuário, plano, título, duração e minutos assistidos. Use `INNER JOIN`, `WHERE`, `AND` e aliases.

@@ -14,6 +14,9 @@
 - Atividade 03 - Autômato com Pilha
     * Entrega até 28/08/2026
     * Entrega via link: [https://forms.gle/BuzwNLCKfHuarWjj7](https://forms.gle/BuzwNLCKfHuarWjj7)
+ - Atividade 04 - Máquina de Turing
+	* Entrega até 04/09/2026
+	* Entrega via link: [https://forms.gle/nTzwZbCpemqNfv8B6](https://forms.gle/nTzwZbCpemqNfv8B6)
 
 ## PROVA
 - Prova 3o Bimestre
