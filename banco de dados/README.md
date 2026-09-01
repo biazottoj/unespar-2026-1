@@ -35,7 +35,7 @@
 
 ## PROVA
 - Prova 3o Bimestre
-    * Data: 22/09/2026
+    * Data: 29/09/2026
 
 - Prova 4o Bimestre
     * Data: 01/12/2026
