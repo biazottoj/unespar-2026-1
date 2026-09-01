@@ -472,3 +472,7 @@ PROJEÇÃO EM PERSPECTIVA
  perto          ↓           longe
 ```
 
+
+## Entrega
+- Entregue o código fonte funcionando;
+- Utilize o link a seguir para a entrega: [https://forms.gle/RVweV82py4KPHVtY8](https://forms.gle/RVweV82py4KPHVtY8)

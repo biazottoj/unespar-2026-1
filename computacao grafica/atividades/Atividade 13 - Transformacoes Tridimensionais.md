@@ -925,3 +925,7 @@ Explique.
 ## Questão 10
 
 Explique por que o uso de transformações permite construir um objeto complexo a partir de uma geometria simples.
+
+## Entrega
+
+- Utilize o link a seguir para entrega: [https://forms.gle/9o1Dhytv7JaLvFMf7](https://forms.gle/9o1Dhytv7JaLvFMf7)
