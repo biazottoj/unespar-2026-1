@@ -10,25 +10,25 @@ Explique, com suas palavras, por que um problema de decisão pode ser representa
 
 Depois, defina uma linguagem para o seguinte problema:
 
-> Dado um número natural \(n\), determinar se \(n\) é múltiplo de 3.
+> Dado um número natural `n`, determinar se `n` é múltiplo de 3.
 
 Use a notação:
 
-\[
-L=\{\langle n\rangle \mid \cdots\}
-\]
+```text
+L = { <n> : n é múltiplo de 3 }
+```
 
 ---
 
-## Exercício 2 — \(A_{DFA}\)
+## Exercício 2 — ADFA
 
 Considere:
 
-\[
-A_{DFA}=\{\langle B,w\rangle \mid B \text{ é um AFD que aceita } w\}
-\]
+```text
+ADFA = { <B,w> : B é um AFD que aceita w }
+```
 
-Explique por que \(A_{DFA}\) é decidível.
+Explique por que `ADFA` é decidível.
 
 Sua resposta deve mencionar:
 
@@ -38,15 +38,15 @@ Sua resposta deve mencionar:
 
 ---
 
-## Exercício 3 — \(A_{NFA}\)
+## Exercício 3 — ANFA
 
 Considere:
 
-\[
-A_{NFA}=\{\langle B,w\rangle \mid B \text{ é um AFN que aceita } w\}
-\]
+```text
+ANFA = { <B,w> : B é um AFN que aceita w }
+```
 
-Mostre que \(A_{NFA}\) é decidível usando o fato de que todo AFN pode ser convertido para um AFD equivalente.
+Mostre que `ANFA` é decidível usando o fato de que todo AFN pode ser convertido para um AFD equivalente.
 
 ---
 
@@ -54,23 +54,17 @@ Mostre que \(A_{NFA}\) é decidível usando o fato de que todo AFN pode ser conv
 
 Defina a linguagem:
 
-\[
-A_{REX}=\{\langle R,w\rangle \mid R \text{ é uma expressão regular que gera } w\}
-\]
+```text
+AREX = { <R,w> : R é uma expressão regular que gera w }
+```
 
-Explique como decidir \(A_{REX}\).
+Explique como decidir `AREX`.
 
 Sua solução deve seguir a cadeia:
 
-\[
-\text{expressão regular}
-\rightarrow
-\text{AFN}
-\rightarrow
-\text{AFD}
-\rightarrow
-\text{simulação}
-\]
+```text
+expressão regular -> AFN -> AFD -> simulação
+```
 
 ---
 
@@ -78,11 +72,11 @@ Sua solução deve seguir a cadeia:
 
 Considere:
 
-\[
-E_{DFA}=\{\langle A\rangle \mid A \text{ é um AFD e }L(A)=\emptyset\}
-\]
+```text
+EDFA = { <A> : A é um AFD e L(A) é vazia }
+```
 
-Descreva um algoritmo para decidir \(E_{DFA}\).
+Descreva um algoritmo para decidir `EDFA`.
 
 Depois, explique por que o problema pode ser resolvido usando alcançabilidade de estados.
 
@@ -92,34 +86,34 @@ Depois, explique por que o problema pode ser resolvido usando alcançabilidade d
 
 Considere:
 
-\[
-EQ_{DFA}=\{\langle A,B\rangle \mid A \text{ e }B\text{ são AFDs e }L(A)=L(B)\}
-\]
+```text
+EQDFA = { <A,B> : A e B são AFDs e L(A) = L(B) }
+```
 
-Mostre que \(EQ_{DFA}\) é decidível.
+Mostre que `EQDFA` é decidível.
 
-Dica: construa um AFD \(C\) que aceita as palavras em que \(A\) e \(B\) discordam:
+Dica: construa um AFD `C` que aceita as palavras em que `A` e `B` discordam:
 
-\[
-L(C)=
-(L(A)\cap \overline{L(B)})
-\cup
-(\overline{L(A)}\cap L(B))
-\]
+```text
+L(C) =
+(palavras aceitas por A e não aceitas por B)
+OU
+(palavras não aceitas por A e aceitas por B)
+```
 
 ---
 
-## Exercício 7 — \(A_{CFG}\)
+## Exercício 7 — ACFG
 
 Considere:
 
-\[
-A_{CFG}=\{\langle G,w\rangle \mid G \text{ é uma GLC que gera } w\}
-\]
+```text
+ACFG = { <G,w> : G é uma GLC que gera w }
+```
 
-Explique por que simplesmente testar todas as derivações de \(G\) pode não produzir um decisor.
+Explique por que simplesmente testar todas as derivações de `G` pode não produzir um decisor.
 
-Depois, explique como a Forma Normal de Chomsky permite construir um decisor para \(A_{CFG}\).
+Depois, explique como a Forma Normal de Chomsky permite construir um decisor para `ACFG`.
 
 ---
 
@@ -127,45 +121,36 @@ Depois, explique como a Forma Normal de Chomsky permite construir um decisor par
 
 Considere:
 
-\[
-E_{CFG}=\{\langle G\rangle \mid G \text{ é uma GLC e }L(G)=\emptyset\}
-\]
+```text
+ECFG = { <G> : G é uma GLC e L(G) é vazia }
+```
 
-Descreva o algoritmo de marcação usado para decidir \(E_{CFG}\).
+Descreva o algoritmo de marcação usado para decidir `ECFG`.
 
 Aplique o algoritmo à gramática:
 
-\[
-S\to AB
-\]
-
-\[
-A\to a
-\]
-
-\[
-B\to C
-\]
-
-\[
-C\to b
-\]
+```text
+S -> AB
+A -> a
+B -> C
+C -> b
+```
 
 A linguagem dessa gramática é vazia? Justifique.
 
 ---
 
-## Exercício 9 — \(A_{TM}\)
+## Exercício 9 — ATM
 
 Considere:
 
-\[
-A_{TM}=\{\langle M,w\rangle \mid M \text{ é uma MT e }M\text{ aceita }w\}
-\]
+```text
+ATM = { <M,w> : M é uma MT e M aceita w }
+```
 
-Explique por que \(A_{TM}\) é Turing-reconhecível.
+Explique por que `ATM` é Turing-reconhecível.
 
-Depois, explique por que a simulação universal de \(M\) sobre \(w\) não é suficiente para mostrar que \(A_{TM}\) é decidível.
+Depois, explique por que a simulação universal de `M` sobre `w` não é suficiente para mostrar que `ATM` é decidível.
 
 ---
 
@@ -173,18 +158,18 @@ Depois, explique por que a simulação universal de \(M\) sobre \(w\) não é su
 
 Explique o seguinte resultado:
 
-\[
-A\text{ é decidível}
-\Leftrightarrow
-A\text{ é Turing-reconhecível e }\overline{A}\text{ é Turing-reconhecível}
-\]
+```text
+A é decidível
+SE, E SOMENTE SE,
+A é Turing-reconhecível e o complemento de A é Turing-reconhecível.
+```
 
 Depois, use esse resultado para justificar por que:
 
-\[
-\overline{A_{TM}}
-\]
+```text
+o complemento de ATM
+```
 
 não é Turing-reconhecível.
 
-Dica: lembre-se de que \(A_{TM}\) é reconhecível, mas não é decidível.
+Dica: lembre-se de que `ATM` é reconhecível, mas não é decidível.
