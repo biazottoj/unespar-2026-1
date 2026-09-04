@@ -18,7 +18,7 @@
 	* Entrega até 04/09/2026
 	* Entrega via link: [https://forms.gle/nTzwZbCpemqNfv8B6](https://forms.gle/nTzwZbCpemqNfv8B6)
 - Atividade 05 - Decidibilidade
-    * Entrega até 04/09/2026
+    * Entrega até 11/09/2026
     * Entrega via link: [https://forms.gle/1yBWH5pSHsG3t5XLA](https://forms.gle/1yBWH5pSHsG3t5XLA)
 
 ## PROVA
