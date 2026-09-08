@@ -56,10 +56,10 @@ O usuário `Marcos` mudou de cidade.
 
 Altere sua cidade de `Curitiba` para `Londrina`.
 
-Depois:
+Assim:
 
 1. consulte o registro antes da alteração;
-2. execute o `UPDATE`;
+2. execute o `UPDATE` para atualizar a cidade;
 3. consulte novamente para confirmar a mudança.
 
 ---
