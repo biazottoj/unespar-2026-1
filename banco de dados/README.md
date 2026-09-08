@@ -34,7 +34,8 @@
     * Entrega via link: [https://forms.gle/6jqQv6syUJQcxq148](https://forms.gle/6jqQv6syUJQcxq148)
 - Atividade 15 - Consultas SQL IV (até 08/09/2026)
     * Entrega via link: [https://forms.gle/B3LuciopLuEtnKzh6](https://forms.gle/B3LuciopLuEtnKzh6)
-    * 
+- Atividade 16 - CRUD com PostgreSQL (até 15/09/2026)
+    * Entrega via link: [https://forms.gle/Sq6ijzTAZCouGENh8](https://forms.gle/Sq6ijzTAZCouGENh8)
 ## PROVA
 - Prova 3o Bimestre
     * Data: 29/09/2026
