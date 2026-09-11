@@ -24,6 +24,10 @@
     * Até 04/09/2026
     * Link para entrega: [https://forms.gle/2tD83aNs61M4qfDv7](https://forms.gle/2tD83aNs61M4qfDv7)
 
+- Trabalho 3o Bimestre
+    * Até 28/09/2026
+    * Link para entrega: TBD
+
 ## PROVA
 - Prova 3o Bimestre
     * Data: 18/09/2026
