@@ -55,7 +55,7 @@
 
 ## PROVA
 - Prova 3o Bimestre
-    * Data: 22/09/2026
+    * Data: ~~22/09/2026~~ 15/09/2026 (antecipada devido a mostra de profissões) 
     
 - Prova 4o Bimestre
     * Data: 01/12/2026
