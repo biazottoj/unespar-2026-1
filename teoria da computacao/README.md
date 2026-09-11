@@ -19,6 +19,9 @@
 	* Entrega via link: [https://forms.gle/nTzwZbCpemqNfv8B6](https://forms.gle/nTzwZbCpemqNfv8B6)
 - Atividade 05 - Decidibilidade
     * SEM ENTREGA (ESTUDO GUIADO)
+- Atividade 06 - Classes de Problemas
+	* Entrega até 18/09/2026
+	* Entrega via link: [https://forms.gle/cvr6Nua2Yp7E9kdAA](https://forms.gle/cvr6Nua2Yp7E9kdAA) 
 
 ## PROVA
 - Prova 3o Bimestre
