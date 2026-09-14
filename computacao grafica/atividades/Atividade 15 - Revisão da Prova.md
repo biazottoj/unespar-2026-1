@@ -1551,3 +1551,7 @@ Analise:
 2. Qual é o papel das duas translações?
 3. Em quais posições da órbita o cubo parece maior?
 4. Por que seu tamanho aparente muda ao longo do movimento?
+
+## Entrega
+- Entregue o código fonte funcionando;
+- Utilize o link a seguir para a entrega: [https://forms.gle/27isncaXETEDXNuHA](https://forms.gle/27isncaXETEDXNuHA)
