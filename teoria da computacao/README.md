@@ -22,6 +22,9 @@
 - Atividade 06 - Classes de Problemas
 	* Entrega até 18/09/2026
 	* Entrega via link: [https://forms.gle/cvr6Nua2Yp7E9kdAA](https://forms.gle/cvr6Nua2Yp7E9kdAA) 
+- Atividade 07 - Revisão para a prova
+	* Entrega até 25/09/2026
+	* Entrega via link: [https://forms.gle/VKbmQnuvmoGStsNd8](https://forms.gle/VKbmQnuvmoGStsNd8) 
 
 ## PROVA
 - Prova 3o Bimestre

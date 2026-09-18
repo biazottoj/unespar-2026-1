@@ -36,6 +36,8 @@
     * Entrega via link: [https://forms.gle/B3LuciopLuEtnKzh6](https://forms.gle/B3LuciopLuEtnKzh6)
 - Atividade 16 - CRUD com PostgreSQL (até 15/09/2026)
     * Entrega via link: [https://forms.gle/Sq6ijzTAZCouGENh8](https://forms.gle/Sq6ijzTAZCouGENh8)
+- Atividade 17 - Revisão para a prova (até 29/09/2026)
+    * Entrega via link: [https://forms.gle/1VzNd6XVG7dn74G79](https://forms.gle/1VzNd6XVG7dn74G79)
 ## PROVA
 - Prova 3o Bimestre
     * Data: 29/09/2026
