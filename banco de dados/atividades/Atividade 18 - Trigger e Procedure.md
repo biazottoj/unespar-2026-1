@@ -169,3 +169,6 @@ Crie `fn_notificar_cancelamento_aluno` para inserir uma notificação quando uma
 Crie `trg_notificar_cancelamento_aluno` como `AFTER UPDATE OF status` usando `WHEN` com `OLD.status` e `NEW.status`.
 
 ---
+## Entrega
+
+Realize a entrega da atividade utilizando o link a seguir: [https://forms.gle/iQv75uCriBRKQVUr5](https://forms.gle/iQv75uCriBRKQVUr5)
