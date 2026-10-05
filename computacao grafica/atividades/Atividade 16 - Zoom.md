@@ -314,3 +314,6 @@ vermelho | azul
 Aplique Zoom In quadrado e linear e compare especificamente os pixels próximos à fronteira.
 
 Explique por que o método linear cria uma **transição de cores**, enquanto o método quadrado mantém uma separação abrupta.
+
+# Link para a entrega
+Utilize esse link para entrega: [https://forms.gle/7cvr6hSseLDoEAJa8](https://forms.gle/7cvr6hSseLDoEAJa8)
