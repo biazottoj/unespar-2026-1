@@ -16,6 +16,8 @@ BEGIN
     VALUES
     (p_id_hospede, p_id_quarto, p_checkin, p_checkout, p_quantidade_hospedes, 'Confirmada');
 
+    UPDATE quarto SET status = 'Ocupado' WHERE id_quarto = p_id_quarto;
+
     RAISE NOTICE 'RESERVA CADASTRADA COM SUCESSO.';
 END;
 $$;
