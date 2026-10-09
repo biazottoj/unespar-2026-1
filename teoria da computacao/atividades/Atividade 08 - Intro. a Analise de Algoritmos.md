@@ -232,3 +232,8 @@ c. Continue o padrão até a última passagem relevante.
 d. Escreva a soma total.  
 e. O número de comparações muda se o vetor já estiver ordenado?  
 f. Qual é a complexidade em Big O no melhor e no pior caso?
+
+
+## Entrega
+
+Realize a entrega da atividade no link abaixo> [https://forms.gle/wKMykQ47AUSFnowA8](https://forms.gle/wKMykQ47AUSFnowA8)
