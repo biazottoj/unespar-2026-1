@@ -423,3 +423,7 @@ O README deverá apresentar:
 - lista das consultas;
 - lista dos movimentos;
 - instruções para execução.
+
+Entrega via link: [https://forms.gle/GFv3XzbBV2ndhE5Q9](https://forms.gle/GFv3XzbBV2ndhE5Q9)
+
+Entrega até 27/10/2026

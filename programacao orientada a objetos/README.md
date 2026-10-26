@@ -25,8 +25,8 @@
     * Link para entrega: [https://forms.gle/2tD83aNs61M4qfDv7](https://forms.gle/2tD83aNs61M4qfDv7)
 
 - Trabalho 3o Bimestre
-    * Até 28/09/2026
-    * Link para entrega: TBD
+    * Até ~28/09/2026~ 27/10/2026
+    * Link para entrega: [https://forms.gle/GFv3XzbBV2ndhE5Q9](https://forms.gle/GFv3XzbBV2ndhE5Q9)
 
 ## PROVA
 - Prova 3o Bimestre
