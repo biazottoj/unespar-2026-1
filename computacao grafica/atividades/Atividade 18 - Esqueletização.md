@@ -166,6 +166,10 @@ A entrega deverá conter:
 - `atividade_esqueletizacao.py` — código Python/OpenGL completo, incluindo a nova figura, o processo de recuperação e a visualização comparativa.
 - `respostas.md` — respostas às seis questões da Parte 6, com a justificativa da sequência de operações escolhida e capturas de tela dos resultados.
 
+Entrega via link: [https://forms.gle/uzHERvgg7RKcs8YY9](https://forms.gle/uzHERvgg7RKcs8YY9)
+
+Entrega até dia 03/11/2026
+
 ## Resultado esperado
 
 Ao final da atividade, o programa deverá demonstrar o seguinte processo:

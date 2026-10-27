@@ -324,3 +324,9 @@ histograma equalizado
 ```
 
 O desafio é fazer com que o algoritmo consiga identificar adequadamente as três situações.
+
+# Entrega
+
+Entrega via link: [https://forms.gle/k2Q96fBvL7od5RsYA](https://forms.gle/k2Q96fBvL7od5RsYA)
+
+Entrega até 03/11/2026

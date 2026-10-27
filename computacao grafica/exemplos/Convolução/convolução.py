@@ -249,25 +249,25 @@ def kernel_media(tamanho=3):
 def kernel_gaussiano():
     return np.array([[1, 2, 1], 
                      [2, 4, 2], 
-                     [1, 2, 1]], dtype=np.float32) / 16
+                     [1, 2, 1]], dtype=np.float32)/16;
 
 
 def kernel_nitidez():
-    """TODO 4: centro=5, vizinhos ortogonais=-1, demais=0."""
-    # TODO: implementar filtro de nitidez
-    return np.array([[0, 0, 0], [0, 1, 0], [0, 0, 0]], dtype=np.float32)
+    return np.array([[0, -1, 0], 
+                     [-1, 5, -1], 
+                     [0, -1, 0]], dtype=np.float32)
 
 
 def kernel_sobel_x():
-    """TODO 5: detectar variacao horizontal com pesos -1,-2,1,2."""
-    # TODO: implementar mascara Sobel X
-    return np.zeros((3, 3), dtype=np.float32)
+    return np.array([[-1, 0, 1], 
+                     [-2, 0, 2], 
+                     [-1, 0, 1]], dtype=np.float32)
 
 
 def kernel_sobel_y():
-    """TODO 6: detectar variacao vertical."""
-    # TODO: implementar mascara Sobel Y
-    return np.zeros((3, 3), dtype=np.float32)
+    return np.array([[-1, -2, -1], 
+                     [0,  0,  0], 
+                     [1,  2, 1]], dtype=np.float32)
 
 
 def aplicar_convolucao_2d(canal, kernel, contorno='refletir'):
@@ -308,13 +308,19 @@ def aplicar_kernel_rgb(image, kernel, contorno='refletir'):
 
 
 def filtro_bordas(image, contorno='refletir', eixo='magnitude'):
-    """TODO 7: aplicar Sobel X e Y ao canal cinza.
-
-    Calcular |Gx|, |Gy| ou sqrt(Gx**2 + Gy**2), dividir por 4,
-    limitar entre 0 e 1 e repetir o canal para exibir como RGB.
-    """
-    # TODO: substituir pelo calculo do gradiente. Ainda nao detecta bordas.
-    return image.copy()
+    """Sobel em cinza: componentes assinadas e norma do gradiente."""
+    gray = para_cinza(image)
+    gx = aplicar_convolucao_2d(gray, kernel_sobel_x(), contorno)
+    gy = aplicar_convolucao_2d(gray, kernel_sobel_y(), contorno)
+    if eixo == 'x':
+        intensidade = np.abs(gx) / 4.0
+    elif eixo == 'y':
+        intensidade = np.abs(gy) / 4.0
+    elif eixo == 'magnitude':
+        intensidade = np.hypot(gx, gy) / 4.0
+    else:
+        raise ValueError('eixo invalido.')
+    return cinza_para_rgb(np.clip(intensidade, 0, 1))
 
 # ==============================================================
 # INFRAESTRUTURA OPENGL - PRONTA NOS DOIS ARQUIVOS
