@@ -542,31 +542,8 @@ procedimento gerarRotas(rota, inicio, n):
 
 ---
 
-# Quadro de registro das análises
+# Entrega
 
-Preencha a tabela após resolver os exercícios. **Não há gabarito nesta folha.**
+Entrega via link: [https://forms.gle/smBFmaD5CjL2xeFx9](https://forms.gle/smBFmaD5CjL2xeFx9)
 
-| Exercício | O que representa `n`? | Operação básica | Função ou limite de contagem | Big O do tempo total |
-|---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
-| 10 | | | | |
-
-## Checklist de revisão antes da entrega
-
-- [ ] Defini o tamanho da entrada corretamente em cada exercício.
-- [ ] Identifiquei uma operação básica ou expliquei como conto as iterações.
-- [ ] Fiz pelo menos uma simulação com entrada pequena.
-- [ ] Diferenciei **contagem exata de uma operação** de **custo total** quando necessário.
-- [ ] Justifiquei minha classificação Big O.
-- [ ] Nas demonstrações formais, explicitei uma desigualdade válida e as constantes `c` e `n0`.
-- [ ] Nos exercícios recursivos, considerei **todas as chamadas** e não apenas um caminho da recursão.
-
-**Fim da atividade.**
+Entrega até 06/11/2026
