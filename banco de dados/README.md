@@ -43,7 +43,7 @@
     * Data: 29/09/2026
 
 - Prova 4o Bimestre
-    * Data: 01/12/2026
+    * Data: 24/11/2026
     
 #### CONTEÚDO PARA AS AVALIACÕES:
 
