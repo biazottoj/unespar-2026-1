@@ -243,3 +243,10 @@ procedimento auditarPares(unidades):
                 registrarTeste(unidades[i], unidades[j], escala)
                 escala = escala * 2
 ```
+
+
+## Entrega
+
+Entrega via link: [https://forms.gle/ikqZVPm3iVprPBd86](https://forms.gle/ikqZVPm3iVprPBd86)
+
+Entrega até 13/11/2026.
