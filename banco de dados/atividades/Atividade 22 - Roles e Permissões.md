@@ -126,7 +126,7 @@ Como administrador, crie uma view `vw_quartos_precos_aluno` que mostre **número
 
 Teste se a conta financeira consegue ler a view e se consegue ler as tabelas de origem.
 
-## Exercício 22
+## Exercício 20
 
 Explique por que fornecer acesso apenas a uma view pode ser mais seguro do que conceder acesso direto à tabela original. Uma view, isoladamente, garante segurança se o usuário já tiver acesso à tabela base?
 
@@ -134,17 +134,11 @@ Explique por que fornecer acesso apenas a uma view pode ser mais seguro do que c
 
 # Parte VI — REVOKE e verificação
 
-## Exercício 20
+## Exercício 21
 
 Revogue **apenas a permissão de atualização da coluna `status`** da tabela `reserva` concedida a `papel_atendimento_aluno`.
 
 Teste novamente o `UPDATE` como `usuario_atendimento_aluno`. Depois restaure a permissão.
-
-## Exercício 21
-
-Revogue a **associação** entre `usuario_atendimento_aluno` e `papel_atendimento_aluno`.
-
-Verifique se o usuário continua existindo e se ainda consegue consultar `hospede`. Depois restaure a associação.
 
 # Entrega
 
