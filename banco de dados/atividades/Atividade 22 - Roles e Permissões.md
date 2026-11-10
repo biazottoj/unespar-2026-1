@@ -1,4 +1,8 @@
 # Atividade Prática — Usuários, Roles e Permissões no PostgreSQL
+
+
+Utilize o Banco de Dados do Exemplo 09
+
 ---
 
 # Parte I — Conceitos e reconhecimento
@@ -142,4 +146,8 @@ Revogue a **associação** entre `usuario_atendimento_aluno` e `papel_atendiment
 
 Verifique se o usuário continua existindo e se ainda consegue consultar `hospede`. Depois restaure a associação.
 
+# Entrega
 
+Realizar a entrega via link: [https://forms.gle/Q3b9tXptKdsgtAmN6](https://forms.gle/Q3b9tXptKdsgtAmN6)
+
+Entrega até o dia 17/11/2026

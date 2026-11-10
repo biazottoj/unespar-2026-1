@@ -525,6 +525,6 @@ Não basta afirmar que um índice deixa a busca mais rápida: sua justificativa 
 
 ## 3. Entrega
 
-Utilize o link para entrega: []()
+Utilize o link para entrega: [https://forms.gle/6FRAd9bdoGo1PYrM8](https://forms.gle/6FRAd9bdoGo1PYrM8)
 
-Entrega ate 10/11/2026
+Entrega ate 11/11/2026
