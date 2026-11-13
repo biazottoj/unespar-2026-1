@@ -1,10 +1,21 @@
 # Trabalho Guiado — Introdução ao Spring Boot e APIs REST
 
+## Equipes
+
+O trabalho poderá ser realizado individualmente ou em grupos de até 3 alunos.
+
+## Data da entrega
+
+30/11/2026 até 23:59
+
+
 ## SistemaHotel
 
 # 1. Objetivo
 
 Neste trabalho, você irá pesquisar os principais conceitos do **Spring Boot** e, em seguida, construir gradualmente uma API REST para o SistemaHotel.
+
+Utilize as entidades que foram criadas nas últimas aulas. Os códigos estão disponíveis na pasta [códigos](https://github.com/biazottoj/unespar-2026-1/tree/main/programacao%20orientada%20a%20objetos/codigos).
 
 O trabalho possui duas partes:
 
@@ -1553,33 +1564,7 @@ Documento contendo as respostas das pesquisas.
 
 ### Parte prática
 
-Projeto Spring Boot executável.
-
-### Evidências
-
-Capturas ou exemplos das requisições:
-
-```
-GET  
-POST  
-PUT  
-DELETE
-```
-
-### README
-
-Com:
-
-- como executar;
-
-- endpoints disponíveis;
-
-- exemplos de JSON;
-
-- estrutura de camadas.
-
-
-# 66. Endpoints mínimos
+Link para um repositório no Github com o código do projeto.
 
 O projeto deverá possuir no mínimo:
 
@@ -1597,5 +1582,21 @@ Além de pelo menos:
 1 endpoint de consulta/filtro
 ```
 
+### README dentro do repositório
+
+Com:
+
+- como executar;
+
+- endpoints disponíveis;
+
+- exemplos de JSON;
+
+- estrutura de camadas.
 
 
+## Entrega via forms
+
+Realize a entrega via Google Forms: []()
+
+Data da entrega: 30/11/2026 até 23:59
