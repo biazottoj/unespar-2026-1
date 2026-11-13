@@ -1,15 +1,51 @@
 # Trabalho Guiado — Introdução ao Spring Boot e APIs REST
 
+
 ## Equipes
 
 O trabalho poderá ser realizado individualmente ou em grupos de até 3 alunos.
+
+
+## Entregáveis
+
+O aluno deverá entregar:
+
+### Parte teórica
+
+Documento contendo as respostas das pesquisas.
+
+
+### Parte prática
+
+Link para um repositório no Github com o código do projeto.
+
+
+O projeto deverá possuir no mínimo:
+
+```
+GET    /quartos  
+GET    /quartos/\{id\}  
+POST   /quartos  
+PUT    /quartos/\{id\}  
+DELETE /quartos/\{id\}
+```
+
+Além de pelo menos:
+
+```
+1 endpoint de consulta/filtro
+```
+
 
 ## Data da entrega
 
 30/11/2026 até 23:59
 
 
-## SistemaHotel
+## Entrega via Google Forms
+
+Realize a entrega do trabalho utilizando o link: [https://forms.gle/cACBL5SdjMiy85Fz8](https://forms.gle/cACBL5SdjMiy85Fz8)
+
 
 # 1. Objetivo
 
@@ -1554,49 +1590,3 @@ O que muda principalmente é a camada de entrada.
 
 
 
-# 65. Entregáveis
-
-O aluno deverá entregar:
-
-### Parte teórica
-
-Documento contendo as respostas das pesquisas.
-
-### Parte prática
-
-Link para um repositório no Github com o código do projeto.
-
-O projeto deverá possuir no mínimo:
-
-```
-GET    /quartos  
-GET    /quartos/\{id\}  
-POST   /quartos  
-PUT    /quartos/\{id\}  
-DELETE /quartos/\{id\}
-```
-
-Além de pelo menos:
-
-```
-1 endpoint de consulta/filtro
-```
-
-### README dentro do repositório
-
-Com:
-
-- como executar;
-
-- endpoints disponíveis;
-
-- exemplos de JSON;
-
-- estrutura de camadas.
-
-
-## Entrega via forms
-
-Realize a entrega via Google Forms: []()
-
-Data da entrega: 30/11/2026 até 23:59
