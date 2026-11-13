@@ -28,6 +28,13 @@
     * Até ~28/09/2026~ 27/10/2026
     * Link para entrega: [https://forms.gle/GFv3XzbBV2ndhE5Q9](https://forms.gle/GFv3XzbBV2ndhE5Q9)
     
+    
+---
+
+## Atividades 4o Bimestre
+
+- Atividade 10 - Design Patterns
+
 - Trabalho 4o Bimestre
 	* Até 30/11/2026
 	* Link para entrega? [https://forms.gle/cACBL5SdjMiy85Fz8](https://forms.gle/cACBL5SdjMiy85Fz8)
