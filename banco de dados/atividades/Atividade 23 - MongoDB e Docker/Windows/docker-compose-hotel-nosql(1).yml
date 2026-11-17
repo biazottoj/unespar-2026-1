@@ -1,0 +1,16 @@
+# Ambiente DIDÁTICO local. Não reutilize esta senha em ambientes reais.
+services:
+  mongo:
+    image: mongo:8.0
+    container_name: mongo_hotel_aula
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin_aula
+      MONGO_INITDB_ROOT_PASSWORD: AulaNoSQL_2026_Trocar
+    volumes:
+      - mongo_hotel_dados:/data/db
+
+volumes:
+  mongo_hotel_dados:
