@@ -237,3 +237,9 @@ Siga a ordem abaixo, preferencialmente anotando uma previsão antes de cada exec
 - Sabe justificar os limiares e as limitações da discretização, em vez de apenas copiar a saída do programa.
 
 **Conexão com a atividade semanal:** as técnicas de deformação/preenchimento e Hough podem ser usadas em um mesmo cenário de inspeção de peças. A atividade semanal apresenta requisitos e entregáveis próprios.
+
+## Entrega
+
+Entrega via link: [https://forms.gle/KRRPvzum5uFXvapdA](https://forms.gle/KRRPvzum5uFXvapdA)
+
+Entrega até 19/11/2026
