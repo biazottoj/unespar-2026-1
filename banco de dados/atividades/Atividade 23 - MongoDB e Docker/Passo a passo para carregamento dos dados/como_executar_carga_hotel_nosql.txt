@@ -1,0 +1,24 @@
+COMO EXECUTAR — HOTEL NOSQL
+
+1) No terminal Ubuntu, na pasta em que salvou o JavaScript:
+
+sudo docker cp carga_inicial_hotel_nosql_recriada.js mongo_hotel_aula:/tmp/carga_inicial_hotel_nosql_recriada.js
+
+2) Entre no MongoDB (solicitará a senha):
+
+sudo docker exec -it mongo_hotel_aula mongosh --username admin_aula --authenticationDatabase admin
+
+Senha do laboratório: AulaNoSQL_2026_Trocar
+
+3) Dentro do mongosh, execute:
+
+load("/tmp/carga_inicial_hotel_nosql_recriada.js")
+
+4) Confira:
+
+use hotel_nosql
+db.hospedes.countDocuments({})
+db.quartos.countDocuments({})
+db.reservas.countDocuments({})
+
+Resultado para banco novo: 6, 6, 6.
