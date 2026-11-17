@@ -38,12 +38,27 @@
     * Entrega via link: [https://forms.gle/Sq6ijzTAZCouGENh8](https://forms.gle/Sq6ijzTAZCouGENh8)
 - Atividade 17 - Revisão para a prova (até 29/09/2026)
     * Entrega via link: [https://forms.gle/1VzNd6XVG7dn74G79](https://forms.gle/1VzNd6XVG7dn74G79)
+
+
+#### 4o Bimestre
+
+- Atividade 18 - Trigger e Procedure (até 27/10/2026)
+- Atividade 19 - Transações e Propriedades ACID (até 03/11/2026)
+- Atividade 20 - Views (até 03/11/2026)
+- Atividade 21 - Índices (até 11/11/2026)
+- Atividade 22 - Roles e Permissões (até 17/11/2026)
+- Atividade 23 - Bancos NoSQL (MongoDB) (até 24/11/2026)
+- Atividade 24 - Revisão para a Prova (até 01/12/2026)
+
+
+
+
 ## PROVA
 - Prova 3o Bimestre
     * Data: 29/09/2026
 
 - Prova 4o Bimestre
-    * Data: 24/11/2026
+    * Data: 01/12/2026
     
 #### CONTEÚDO PARA AS AVALIACÕES:
 
@@ -51,6 +66,14 @@
     * Conversão de Modelos (Entidade-Relacionamento -> Modelo Relacional)
     * Álgebra Relacional
     * SQL I - Comandos DDL
+
+- 4o Bimestre:
+	* Trigger e Procedure
+	* Transações e Propriedades ACID
+	* Views
+	* Índices
+	* Roles e Permissões
+	* Bancos NoSQL (MongoDB)
 
 #### Outros
 
