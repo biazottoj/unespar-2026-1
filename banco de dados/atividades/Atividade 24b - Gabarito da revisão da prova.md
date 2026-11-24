@@ -1,9 +1,9 @@
-# Gabarito comentado — Revisão de Banco de Dados
+# Gabarito — Revisão de Banco de Dados
 
 **Correspondente à lista:** `revisao_banco_dados_pos_prova.md`  
 **Conteúdos:** procedures e triggers; transações e ACID; views; índices; usuários, roles e permissões; NoSQL e MongoDB.
 
-> **Orientações de correção:** os códigos abaixo apresentam soluções de referência. Outras soluções estão corretas se preservarem o objetivo, a semântica e as restrições da questão. Os exemplos pressupõem o banco de hotel descrito na lista; se as colunas ou os identificadores diferirem na instalação do aluno, serão necessárias adaptações. Em PostgreSQL, execute exemplos que criam funções, triggers e views em banco de testes; objetos de mesmo nome devem ser criados apenas uma vez.
+> **Sobre este gabarito:** as respostas e os comandos apresentados são soluções de referência para estudo. Em questões práticas, pode haver outras formas de chegar ao mesmo resultado. Os exemplos utilizam o banco de hotel descrito na lista; adapte identificadores e nomes de colunas se seu ambiente for diferente. Execute comandos de criação e alteração em um banco de testes para não afetar dados importantes.
 
 ---
 
@@ -29,7 +29,7 @@ $$;
 CALL sp_concluir_reserva(1);
 ```
 
-**Comentário:** `p_id` é o parâmetro recebido; o `WHERE` é essencial para não atualizar todas as reservas. Criar a procedure não a executa. Se nenhuma reserva com esse ID existir, o `UPDATE` simplesmente afetará zero linhas; uma implementação mais robusta pode verificar isso e emitir um erro.
+**Explicação:** `p_id` é o parâmetro recebido; o `WHERE` é essencial para não atualizar todas as reservas. Criar a procedure não a executa. Se nenhuma reserva com esse ID existir, o `UPDATE` simplesmente afetará zero linhas; uma implementação mais robusta pode verificar isso e emitir um erro.
 
 ## 3. BEFORE / AFTER e ROW / STATEMENT
 
@@ -66,7 +66,7 @@ FOR EACH ROW
 EXECUTE FUNCTION fn_validar_datas_reserva();
 ```
 
-**Comentário:** `RAISE EXCEPTION` rejeita a operação inválida e `RETURN NEW` mantém o fluxo de inserção quando o período é válido. Em um sistema real, um `CHECK (data_checkout > data_checkin)` também implementa muito bem essa regra simples. A trigger foi pedida para praticar a automação.
+**Explicação:** `RAISE EXCEPTION` rejeita a operação inválida e `RETURN NEW` mantém o fluxo de inserção quando o período é válido. Em um sistema real, um `CHECK (data_checkout > data_checkin)` também implementa muito bem essa regra simples. A trigger foi pedida para praticar a automação.
 
 ## 6. Condição do trigger de auditoria
 
@@ -140,7 +140,7 @@ WHERE id_quarto = 101;
 COMMIT;
 ```
 
-**Comentário:** essa solução demonstra a estrutura pedida. Pressupõe que os identificadores existam, que não haja restrições impedindo o procedimento e que não se esteja duplicando um pagamento indevidamente. Em uma implementação real, a transação precisaria validar a reserva, o quarto correto, a ausência de pagamento duplicado e as regras de negócio antes de confirmar.
+**Explicação:** essa solução demonstra a estrutura pedida. Pressupõe que os identificadores existam, que não haja restrições impedindo o procedimento e que não se esteja duplicando um pagamento indevidamente. Em uma implementação real, a transação precisaria validar a reserva, o quarto correto, a ausência de pagamento duplicado e as regras de negócio antes de confirmar.
 
 ## 14. `current transaction is aborted`
 
@@ -442,7 +442,7 @@ GRANT SELECT ON TABLE hospede TO papel_recepcao;
 
 O privilégio `SELECT` permite leitura e **não implica `DELETE`**. Como medida complementar, confirme que não há outras concessões de exclusão diretas ou herdadas.
 
-## 50. Política de menor privilégio (exemplo aceitável)
+## 50. Política de menor privilégio — exemplo
 
 | Perfil | Operações permitidas | Operação proibida |
 |---|---|---|
@@ -450,7 +450,7 @@ O privilégio `SELECT` permite leitura e **não implica `DELETE`**. Como medida 
 | **Financeiro** | `SELECT` em `reserva`; `INSERT` em `pagamento` | `UPDATE` de preços em `tipo_quarto` |
 | **Auditoria** | `SELECT` em `reserva` e `pagamento`; `SELECT` em views de relatório | `DELETE` em `reserva` |
 
-Outras políticas coerentes podem receber crédito integral. O importante é que os privilégios correspondam às funções e que **operações não necessárias sejam negadas**.
+Este é um exemplo de política de acesso. Outras distribuições de privilégios também são possíveis, desde que correspondam às funções de cada setor e respeitem o princípio do menor privilégio: **operações desnecessárias não devem ser permitidas**.
 
 ---
 
@@ -576,16 +576,3 @@ db.hospedes.createIndex(
 ```
 
 O índice facilita determinados filtros no email e impõe unicidade aos valores indexados de acordo com suas regras. O **volume** preserva os arquivos de dados quando o contêiner é interrompido ou recriado. Assim, `docker compose down` seguido de `up -d` não exige repopular o banco, desde que o mesmo volume seja reutilizado. **Evite `down -v`** se quiser preservar os dados.
-
----
-
-# Critérios gerais de correção
-
-O objetivo da revisão é verificar **compreensão e aplicação**, não memorização literal. Em questões conceituais, valorize respostas que distingam claramente os conceitos, mesmo com outra redação. Em questões práticas, considere corretas soluções equivalentes que respeitem os nomes, restrições e efeitos solicitados. Em particular:
-
-- Em **triggers**, valide o evento, o momento, o uso de `NEW`/`OLD` e o efeito esperado; a sintaxe pode variar conforme a versão do PostgreSQL.
-- Em **transações**, exija o entendimento de quais operações são confirmadas ou revertidas.
-- Em **views**, confira joins, filtros, agrupamentos e o tratamento de registros sem correspondência.
-- Em **índices**, não exija que um plano de execução sempre escolha `Index Scan`: essa escolha depende dos dados e do otimizador.
-- Em **permissões**, verifique se o aluno entende herança e privilégios em múltiplos níveis, sem assumir que uma concessão isolada controla todos os caminhos de acesso.
-- Em **MongoDB**, confira a distinção entre comandos de terminal e comandos do `mongosh` e a preservação correta de objetos aninhados e arrays.
